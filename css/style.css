@@ -1,0 +1,141 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+    vertical-align: baseline;}
+
+body {
+    background-color: black;
+    color: white;
+    padding: 0px !important;
+    text-align: center;}
+
+header {
+background-color:  #f320b3;
+color: white;}
+
+.whitelink 
+{ color: white !important;
+font-family: 'Nunito', sans-serif;} 
+.nounderline {text-decoration: none }
+.active-link {text-decoration: underline;}
+.navbar {height: 80px;}
+
+
+h1 {
+    background-color: black;
+    color:rgb(243, 32, 179);
+     font-family: 'Permanent Marker', cursive;
+     font-size: 4em; 
+     font-weight: bold;
+    letter-spacing: 1em;}
+
+h2 {
+    color:#f320b3;
+    font-family: 'Nunito', sans-serif;
+    font-size: 2em;
+    line-height: 1em;}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: x-large;}
+.fm {
+    color: rgb(243, 32, 179);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1em;
+    font-weight: bold;}
+
+h3 {
+    color:#f320b3;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2em;
+    line-height: 2em;}
+.info{
+        font-family: 'Nunito', sans-serif;
+        font-size: x-large;}
+    
+
+.aboutus {
+    color: #f320b3;
+    font-family: 'Nunito', sans-serif;
+    font-size: large;
+    line-height: 4em;
+    float: center !important}
+.instructions {
+    font-family: 'Nunito', sans-serif;
+    font-size: large;}
+
+
+#homeimg {
+    margin-top: 3%;
+    height: 250px;
+    text-align: center;}
+
+
+.calendar {
+    font-family: 'Nunito', sans-serif;
+    font-size: x-large;
+    line-height: 2em;}
+h4 {
+    font-family: 'Nunito', sans-serif;
+    font-size: x-large;
+    line-height: 2em;}
+
+footer ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 20px;}
+
+footer section {
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+footer li+li {
+    margin-left: 200px;
+    margin-right: 20px;}
+
+
+.cbm {
+    color: rgb(243, 32, 179);
+    font-size: medium;}
+.pinklink {
+    color: #f320b3 !important}
+.fa-brands {
+    float: left;
+    line-height: 2em;}
+.documentazione {
+     float: right;
+     color: rgb(243, 32, 179) !important;
+     font-size: medium;
+     font-family: 'Nunito', sans-serif;}
+#img {
+    margin-top: 2%;
+    width: auto;
+    height: 200px;}
+
+
+
+
+
+
+
+   
+
+
